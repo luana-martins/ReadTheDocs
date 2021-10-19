@@ -7,3 +7,5 @@ Add spotbugs-maven-plugin to your pom.xml
 -----------------------------------------
 
 Add ``<plugin>`` into your ``pom.xml`` like below:
+.. literalinclude:: generated/maven.template.inc
+    :language: xml
